@@ -7,4 +7,4 @@
 2. Обработка данных
 3. Построение модели
 
-Более подробно можно изучать в файлу (rnn-class.ipynb)[https://github.com/IAskarov/NLP_CNN/blob/master/rnn-class.ipynb]
+Более подробно можно изучать в файлу [rnn-class.ipynb](https://github.com/IAskarov/NLP_CNN/blob/master/rnn-class.ipynb)
